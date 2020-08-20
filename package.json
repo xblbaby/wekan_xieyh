@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.5.4",
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "bson": "^4.0.0",
     "bunyan": "^1.8.12",
     "es6-promise": "^4.2.4",
